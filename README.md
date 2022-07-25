@@ -16,8 +16,8 @@ This indicates that, with improved data, machine learning can be a valuable addi
 
 ## Notebooks
 Several notebooks have been written to complete this project.
-- The *data_gathering* notebook contains the selection of tables, columns and rows from the crunchbase 2013 snapshot
+- The *data_gathering* notebook contains the selection of tables, columns and rows from the crunchbase 2013 snapshot.
 - Data cleaning and exploratory analysis is conducted in the *feature_engeneering_and_exploration* notebook.
 - The *feature_engeneering_dummy* notebook contains code to translate numeric variables to dummy-variables. This was tested to see if it improves results.
 - The linear regression, support vector machine and XGBoost are trained in the *modelling* notebook. The neural network was trained in the *deal_price_prediction_NN_keras_tuner* notebook
-- Model performance was analysed in *model_performance* and *model_performance_NN* for the machine learning and deep learning models respectively
+- Model performance was analysed in *model_performance* and *model_performance_NN* for the machine learning and deep learning models respectively.

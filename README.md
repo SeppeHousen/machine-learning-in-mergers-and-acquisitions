@@ -2,13 +2,13 @@
 
 This projects leverageas **machine learning to predict the deal price of Mergers and Acquisitions (M&A)**
 
-For my master thesis in my appliead economics I investigated the use of machine learning in M&A.
+For my master thesis in my applied economics I investigated the use of machine learning in M&A.
 After consulting the literature I developed my own models to predict the deal price of mergers and acquisitions.
-More specificly I predictied the deal price for startups using non-financial data.
+More specificlly I predicted the deal price for start-ups using non-financial data.
 
-The crunchbase 2013 snapshot dataset was used to compare *neural networks* to *linear regression, support vector machine and XGBoost*.
+The "Crunchbase 2013 snapshot" dataset was used to compare *neural networks* to *linear regression, support vector machine and XGBoost*.
 
-**Results** show that neural networks and XGBoost perform better than simpeler models.
+**Results** show that neural networks and XGBoost perform better than simpler models.
 Next to that, non-financial data seems to be valuable in predicting the deal price of M&A.
 This indicates that, with improved data, machine learning can be a valuable addition to mergers and acquisitions
 

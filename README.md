@@ -1,4 +1,4 @@
-# machine-learning-in-mergers-and-acquisitions
+# Machine Learning in Mergers and Acquisitions
 
 This projects leverageas **machine learning to predict the deal price of Mergers and Acquisitions (M&A)**
 

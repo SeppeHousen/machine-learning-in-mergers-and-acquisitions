@@ -10,7 +10,9 @@ The "Crunchbase 2013 snapshot" dataset was used to compare *neural networks* to 
 
 **Results** show that neural networks and XGBoost perform better than simpler models.
 Next to that, non-financial data seems to be valuable in predicting the deal price of M&A.
-This indicates that, with improved data, machine learning can be a valuable addition to mergers and acquisitions
+This indicates that, with improved data, machine learning can be a valuable addition to mergers and acquisitions.
+
+This masterthesis was rewarded with a score of 18 out of 20.
 
 
 
